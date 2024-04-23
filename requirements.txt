@@ -2,3 +2,4 @@ torch
 datasets
 tokenizers
 numpy==1.26.4
+torchmetrics
